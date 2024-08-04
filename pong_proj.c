@@ -1,4 +1,4 @@
-//Lab 11, Joe Whelpley
+//Pong Game: Joe Whelpley
 //Read the 'readme.txt' to get the program description.
 //12/10/23
 
